@@ -20,7 +20,7 @@ Implemented keyword search, responsive movie grid, loading/error states,
 ![French](https://img.shields.io/badge/French-A2-green?style=flat-square)
 
 ## 🕵️‍♂️ How to reach me:  
-[LinkedIn](https://www.linkedin.com/in/olena-petrova-27196624a/) | 
+[LinkedIn](https://www.linkedin.com/in/petrova-olena/) | 
 [Telegram](https://t.me/petrovahel) |
 [Email](mailto:petrovahel15@gmail.com)
 
